@@ -1,0 +1,19 @@
+npm init
+npm install next react react-dom
+change:-"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+}
+npm i woocommerce-api
+npm i nodemon
+npm i express
+npm i isomorphic-unfetch
+npm i @zeit/next-css
+npm i --save @icon/themify-icons
+------
+npm i react-sticky-header/react-sticky-footer
+npm i graphql graphql-tag apollo-boost apollo-cache-inmemory apollo-link-http react-apollo
+npm i react-bootstrap bootstrap
+
+
